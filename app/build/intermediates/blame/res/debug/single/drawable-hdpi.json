@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/agus/AndroidStudioProjects/Client-Android-Android/app/build/intermediates/res/merged/debug/drawable-hdpi/newbiechat.png",
+        "source": "/home/agus/AndroidStudioProjects/Client-Android-Android/app/src/main/res/drawable-hdpi/newbiechat.png"
+    },
+    {
+        "merged": "/home/agus/AndroidStudioProjects/Client-Android-Android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/agus/AndroidStudioProjects/Client-Android-Android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
